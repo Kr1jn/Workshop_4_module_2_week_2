@@ -1,0 +1,75 @@
+#container {
+    width: 935px;
+    margin: 0 auto;
+}
+
+div {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#header {
+    width: 890px;
+    height: 100px;
+}
+
+#header img {
+    max-height: 100px;
+}
+
+#sidebar {
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+
+#s1 {
+    height: 50px;
+}
+
+#s2 {
+    width: 48px;
+    height: 48px;
+    float: left;
+}
+
+#s3 {
+    float: left;
+    width: 48px;
+    height: 48px;
+}
+#s4 {
+    float: left;
+    width: 139px;
+    height: 80px;
+}
+
+#c1 {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#c2 {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+#f1 {
+    width: 50px;
+    height: 10px;
+    float: right;
+}
+#content {
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+
+#footer {
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
